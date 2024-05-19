@@ -4,9 +4,9 @@
   "name": "create-block/demo-core",
   "version": "0.1.0",
   "title": "Demo Core Title",
-  "category": "widgets",
+  "category": "text",
   "icon": "smiley",
-  "description": "Example block scaffolded with Create Block tool.",
+  "description": "This is a demo core title description",
   "example": {},
   "supports": {
     "html": false
