@@ -5,7 +5,7 @@
 	"version": "0.1.0",
 	"title": "Demo Core Title",
 	"category": "text",
-	"icon": "smiley",
+	"icon": "editor-paste-word",
 	"description": "This is a demo core title description",
 	"example": {},
 	"supports": {
